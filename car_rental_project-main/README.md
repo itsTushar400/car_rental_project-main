@@ -1,4 +1,4 @@
-![frame_firefox_mac_dark (1)](https://user-images.githubusercontent.com/80502833/187230764-e1bb2b44-c221-4529-ba73-a2261e636372.png)
+<img width="1863" height="984" alt="screencapture-localhost-car-rental-project-main-car-rental-project-main-2026-05-05-09_27_08" src="https://github.com/user-attachments/assets/16569bd7-8692-404d-9e3c-399b05d7b35f" />
 
 <h1 align="center">Car Rental Website Project</h1>  
 
@@ -124,9 +124,7 @@ This is a project for a car rental website. It is a project for the College Mini
 - [Video Demo](https://youtu.be/1Z9Z9Z9Z9Z9)
 
 ## Authors 
-
-- [Varshith V Hegde](https://github.com/Varshithvhegde)
-- [Swasthik Jain PM](https://github.com/Swasthik-Jain)
+Tushar Chauhan
 
 ## Show your support
 
